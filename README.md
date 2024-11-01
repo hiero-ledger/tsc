@@ -11,7 +11,11 @@ This repo serves to provide a structure for activity, discussions and decisions 
 
 ***
 
-## Meeting Notes:
+## Meeting Links:
+
+The calendar for upcoming meetings can be found [here](https://zoom-lfx.platform.linuxfoundation.org/meetings/hiero?view=week)
+
+## Meeting Minutes:
 
 The minutes of the TSC meetings can be found [here](https://github.com/hiero-ledger/tsc/tree/main/minutes)
 
