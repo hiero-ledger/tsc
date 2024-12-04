@@ -5,7 +5,7 @@ This repo serves to provide a structure for activity, discussions and decisions 
 [Hendrik Ebbers](https://github.com/hendrikebbers)\
 [Richard Bair](https://github.com/rbair23)\
 [Leemon Baird (perm)](https://github.com/lbaird)\
-[Stoyan Panayotov](https://github.com/Perseverance)\
+[Stoyan Panayotov](https://github.com/stoqnkpL)\
 [George Spasov](https://github.com/Perseverance)\
 [Alexander Popowycz](https://github.com/popowycz)
 
