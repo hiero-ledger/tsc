@@ -37,7 +37,7 @@ Maintainers are expected to perform the following duties for this repository. Th
 - When appropriate, lead/facilitate architectural discussions in the community.
 - When appropriate, lead/facilitate the creation of a product roadmap.
 - Create, clarify, and label issues to be worked on by Contributors.
-- Ensure that there is a well defined (and ideally automated) product test and
+- Ensure that there is a well-defined (and ideally automated) product test and
   release pipeline, including the publication of release artifacts.
 - When appropriate, execute the product release process.
 - Maintain the repository CONTRIBUTING.md file and getting started documents to
