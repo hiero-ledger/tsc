@@ -24,7 +24,7 @@ The TSC frequently struggles to achieve quorum during scheduled meetings, result
   - When quorum cannot be achieved in meetings
   - When voting must be completed before next TSC meeting
   - When a TSC member requests async voting due to inability to attend meeting
-  - For charter-mandated votes requiring 2/3 majority (per Charter section 4.iii)
+  - For charter-mandated votes requiring 2/3 majority [per Charter section 4. iii](https://github.com/hiero-ledger/hiero/blob/main/technical-charter.md?plain=1#L209)
 - **Location**: Pull requests in the `proposals/` directory
 - **Notification**: All TSC members must be notified via:
   - GitHub PR mention (@username)
