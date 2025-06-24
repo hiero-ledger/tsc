@@ -21,7 +21,7 @@ Sometimes the TSC struggles to achieve qourum around key decisions or requires a
 ### 2. Asynchronous Votes via GitHub Pull Request
 
 - **When Used**:
-  - When quorum cannot be achieved in meetings
+  - When [quorum](https://github.com/hiero-ledger/hiero/blob/main/technical-charter.md?plain=1#L206) cannot be achieved in meetings
   - When voting must be completed before next TSC meeting
   - When a TSC member requests async voting due to inability to attend meeting
   - For charter-mandated votes requiring 2/3 majority [per Charter section 4. iii](https://github.com/hiero-ledger/hiero/blob/main/technical-charter.md?plain=1#L209)
@@ -38,7 +38,7 @@ Sometimes the TSC struggles to achieve qourum around key decisions or requires a
 
 ### Step 2: Call for Vote
 - TSC Chair or designee calls for vote
-- Confirm quorum is present
+- Confirm [quorum](https://github.com/hiero-ledger/hiero/blob/main/technical-charter.md?plain=1#L206) is present
 
 ### Step 3: Voting
 - Members vote verbally or via meeting platform
@@ -97,7 +97,7 @@ Sometimes the TSC struggles to achieve qourum around key decisions or requires a
 ### Active Voting Members
 
 - All TSC members listed in README.md
-- Have not missed 3 consecutive TSC meetings
+- Have not missed the required number of consecutive TSC meetings defined in the [charter](https://github.com/hiero-ledger/hiero/blob/main/technical-charter.md?plain=1#L171)
 - Have GitHub account with appropriate repository access
 
 ### Eligibility Tracking
