@@ -6,7 +6,7 @@ This proposal establishes standardized voting procedures for the Hiero Technical
 
 ## Motivation
 
-The TSC frequently struggles to achieve quorum during scheduled meetings, resulting in delayed decision-making. A standardized asynchronous voting process via GitHub Pull Requests will enable the TSC to maintain momentum while ensuring all members can participate regardless of meeting attendance.
+Sometimes the TSC struggles to achieve qourum around key decisions or requires additional time outside of a meeting to deliberate on a decision. Asynchronous voting through Github Pull Requests would enable both flexibility and a solution for voting outside of the short meeting window.  
 
 ## Proposal Details
 
