@@ -70,7 +70,7 @@ Sometimes the TSC struggles to achieve qourum around key decisions or requires a
 - **Purpose**: Voting only (discussion happens in issue, not PR)
 - **Voting Method**:
   - Approve PR = "Yes" vote
-  - Request Changes = "No" vote
+  - Request Changes and clearly specify disagreement with the proposal = "No" vote
   - No response = Abstention
 - **Comments**: Brief rationale only - substantive discussion in linked issue
 
