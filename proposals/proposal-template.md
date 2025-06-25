@@ -1,18 +1,22 @@
-# [Proposal Title]
+Fields marked with * are required for a valid proposal 
 
-## Summary
+------------------
+
+# [Proposal Title] *
+
+## Summary *
 
 Brief description of the proposal
 
-## Motivation
+## Motivation *
 
 Why this decision is needed
 
-## Proposal Details
+## Proposal Details *
 
 Detailed description of what is being proposed
 
-## Impact
+## Impact *
 
 - Technical impact
 - Community impact
