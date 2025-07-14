@@ -181,28 +181,28 @@ profiles:
   #
    
   # Voter profile: All repo collaborators, 5 minutes long, 75% pass threshold
-  all-vote-short:
+  all-short:
     duration: 5m
     pass_threshold: 75
     allowed_voters:
       teams: []
       users: []
   # Voter profile: All repo collaborators, 1 hour long, 75% pass threshold
-  all-vote-long:
+  all-long:
     duration: 1h
     pass_threshold: 75
     allowed_voters:
       teams: []
       users: []
   # Voter profile: All TSC members, 5 minutes long, 75% pass threshold
-  tsc-vote-short:
+  tsc-short:
     duration: 5m
     pass_threshold: 75
     allowed_voters:
       teams:
         - tsc
   # Voter profile: All TSC members, 1 hour long, 75% pass threshold
-  tsc-vote-long:
+  tsc-long:
     duration: 1h
     pass_threshold: 75
     allowed_voters:
