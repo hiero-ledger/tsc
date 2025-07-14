@@ -179,9 +179,32 @@ profiles:
   # profile is used when using the /vote command, but its values are not used as
   # default values when they are not provided on other profiles.
   #
-  profile1:
-    duration: 1m
+   
+  # Voter profile: All repo collaborators, 5 minutes long, 75% pass threshold
+  all-vote-short:
+    duration: 5m
+    pass_threshold: 75
+    allowed_voters:
+      teams: []
+      users: []
+  # Voter profile: All repo collaborators, 1 hour long, 75% pass threshold
+  all-vote-long:
+    duration: 1h
+    pass_threshold: 75
+    allowed_voters:
+      teams: []
+      users: []
+  # Voter profile: All TSC members, 5 minutes long, 75% pass threshold
+  tsc-vote-short:
+    duration: 5m
     pass_threshold: 75
     allowed_voters:
       teams:
-        - team1
+        - tsc
+  # Voter profile: All TSC members, 1 hour long, 75% pass threshold
+  tsc-vote-long:
+    duration: 1h
+    pass_threshold: 75
+    allowed_voters:
+      teams:
+        - tsc
