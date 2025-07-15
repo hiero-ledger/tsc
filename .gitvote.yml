@@ -181,30 +181,54 @@ profiles:
   #
    
   # Voter profile: All repo collaborators, 5 minutes long, 75% pass threshold
-  all-vote-short:
+  allshort:
     duration: 5m
     pass_threshold: 75
     allowed_voters:
       teams: []
       users: []
+    periodic_status_check: null
+    close_on_passing: false
+    close_on_passing_min_wait: null
+    announcements:
+      discussions:
+        category: announcements
   # Voter profile: All repo collaborators, 1 hour long, 75% pass threshold
-  all-vote-long:
+  alllong:
     duration: 1h
     pass_threshold: 75
     allowed_voters:
       teams: []
       users: []
+    periodic_status_check: null
+    close_on_passing: false
+    close_on_passing_min_wait: null
+    announcements:
+      discussions:
+        category: announcements
   # Voter profile: All TSC members, 5 minutes long, 75% pass threshold
-  tsc-vote-short:
+  tscshort:
     duration: 5m
     pass_threshold: 75
     allowed_voters:
       teams:
         - tsc
+    periodic_status_check: null
+    close_on_passing: false
+    close_on_passing_min_wait: null
+    announcements:
+      discussions:
+        category: announcements
   # Voter profile: All TSC members, 1 hour long, 75% pass threshold
-  tsc-vote-long:
+  tsclong:
     duration: 1h
     pass_threshold: 75
     allowed_voters:
       teams:
         - tsc
+    periodic_status_check: null
+    close_on_passing: false
+    close_on_passing_min_wait: null
+    announcements:
+      discussions:
+        category: announcements
