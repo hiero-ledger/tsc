@@ -1,6 +1,7 @@
 # Technical Steering Committee
 
 [![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/10697/badge)](https://bestpractices.coreinfrastructure.org/projects/10697)
+[![License](https://img.shields.io/badge/license-apache2-blue.svg)](LICENSE)
 
 ## Overview:
 This repo serves to provide a structure for activity, discussions and decisions of the Hiero Technical Steering Committee, operating under the authority of the [Hiero Project Charter](https://github.com/hiero-ledger/hiero/blob/main/technical-charter.md).
