@@ -14,7 +14,8 @@ This repo serves to provide a structure for activity, discussions and decisions 
 [George Spasov](https://github.com/Perseverance)\
 [Alexander Popowycz](https://github.com/popowycz)\
 [Michael Kantor](https://github.com/kantorcodes)\
-[Milan Wiercx van Rhijn](https://github.com/MilanWR)
+[Milan Wiercx van Rhijn](https://github.com/MilanWR)\
+[Brandon Davenport](https://github.com/itsbrandondev)
 
 ***
 
