@@ -209,7 +209,7 @@ profiles:
   # Voter profile: All TSC members, 5 minutes long, 75% pass threshold
   tscshort:
     duration: 5m
-    pass_threshold: 75
+    pass_threshold: 50
     allowed_voters:
       teams:
         - tsc
@@ -222,7 +222,7 @@ profiles:
   # Voter profile: All TSC members, 1 hour long, 75% pass threshold
   tsclong:
     duration: 1h
-    pass_threshold: 75
+    pass_threshold: 50
     allowed_voters:
       teams:
         - tsc
