@@ -206,7 +206,7 @@ profiles:
     announcements:
       discussions:
         category: announcements
-  # Voter profile: All TSC members, 5 minutes long, 75% pass threshold
+  # Voter profile: All TSC members, 5 minutes long, 50% pass threshold
   tscshort:
     duration: 5m
     pass_threshold: 50
@@ -219,9 +219,22 @@ profiles:
     announcements:
       discussions:
         category: announcements
-  # Voter profile: All TSC members, 1 hour long, 75% pass threshold
+  # Voter profile: All TSC members, 1 hour long, 50% pass threshold
   tsclong:
     duration: 1h
+    pass_threshold: 50
+    allowed_voters:
+      teams:
+        - tsc
+    periodic_status_check: null
+    close_on_passing: false
+    close_on_passing_min_wait: null
+    announcements:
+      discussions:
+        category: announcements
+  # Voter profile: All TSC members, 3 days long, 50% pass threshold
+  tscprojectproposal:
+    duration: 3d
     pass_threshold: 50
     allowed_voters:
       teams:
