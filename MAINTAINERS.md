@@ -14,27 +14,30 @@ Maintainers are assigned the following scopes in this repository:
 
 ## Active Maintainers
 
-| Name             | GitHub ID     | Scope               | LFID | Discord ID | Email | Company Affiliation  |
-|----------------- | ------------- | ------------------- | ---- | ---------- | ----- | -------------------- |
-| Richard Bair     | rbair23       | project-maintainers |      |            |       | Hashgraph            |
-| Leemon Baird     | lbaird        | project-maintainers |      |            |       | Hashgraph            |
-| George Spasov    | Perseverance  | project-maintainers |      |            |       | Limechain            |
-| Hendrik Ebbers   | hendrikebbers | project-maintainers |      |            |       | Hashgraph            |
-| Alex Popowycz    | popowycz      | project-maintainers |      |            |       | Hedera               |
-| Stoyan Panayotov | stoqnkpL      | project-maintainers |      |            |       | Limechain            |
-| Lenin Mehedy     | leninmehedy   | github-maintainers  |      |            |       | Hashgraph            |
-| Jeromy Cannon    | jeromy-cannon | github-maintainers  |      |            |       | Hashgraph            |
-| Nathan Klick     | nathanklick   | github-maintainers  |      |            |       | Hashgraph            |
-| Pavel Borisov    | PavelSBorisov | github-maintainers  |      |            |       | LimeChain            |
-| Roger Barker     | rbarker-dev   | github-maintainers  |      |            |       | Hashgraph            |
-| Andrew Brandt    | andrewb1269hg | github-maintainers  |      |            |       | Hashgraph            |
+| Name                   | GitHub ID     | Scope               | LFID | Discord ID | Email | Company Affiliation  |
+|----------------------- | ------------- | ------------------- | ---- | ---------- | ----- | -------------------- |
+| Richard Bair           | rbair23       | project-maintainers |      |            |       | Hashgraph            |
+| Leemon Baird           | lbaird        | project-maintainers |      |            |       | Hashgraph            |
+| Georgi Lazarov         | georgi-l95    | project-maintainers |      |            |       | Limechain            |
+| Milan Wiercx Van Rhijn | MilanWR       | project-maintainers |      |            |       | MilanWR.com (8BEES)  |
+| Michael Kantor         | kantorcodes   | project-maintainers |      |            |       | Hashgraph Online     |
+| Brandon Davenport      | itsbrandondev | project-maintainers |      |            |       | Hashgraph            |
+| Hendrik Ebbers         | hendrikebbers | project-maintainers |      |            |       | Hashgraph            |
+| Alex Popowycz          | popowycz      | project-maintainers |      |            |       | Hedera               |
+| Stoyan Panayotov       | stoqnkpL      | project-maintainers |      |            |       | Limechain            |
+| Lenin Mehedy           | leninmehedy   | github-maintainers  |      |            |       | Hashgraph            |
+| Jeromy Cannon          | jeromy-cannon | github-maintainers  |      |            |       | Hashgraph            |
+| Nathan Klick           | nathanklick   | github-maintainers  |      |            |       | Hashgraph            |
+| Pavel Borisov          | PavelSBorisov | github-maintainers  |      |            |       | LimeChain            |
+| Roger Barker           | rbarker-dev   | github-maintainers  |      |            |       | Hashgraph            |
+| Andrew Brandt          | andrewb1269hg | github-maintainers  |      |            |       | Hashgraph            |
 
 
 ## Emeritus Maintainers
 
-| Name | GitHub ID | Scope | LFID | Discord ID | Email | Company Affiliation |
-|----- | --------- | ----- | ---- | ---------- | ----- | ------------------- |
-|      |           |       |      |            |       |                     |
+| Name             | GitHub ID     | Scope               | LFID | Discord ID | Email | Company Affiliation  |
+|----------------- | ------------- | ------------------- | ---- | ---------- | ----- | -------------------- |
+| George Spasov    | Perseverance  | project-maintainers |      |            |       | Limechain            |
 
 ## The Duties of a Maintainer
 
