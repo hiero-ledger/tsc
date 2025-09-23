@@ -15,7 +15,8 @@ This repo serves to provide a structure for activity, discussions and decisions 
 [Alexander Popowycz](https://github.com/popowycz)\
 [Michael Kantor](https://github.com/kantorcodes)\
 [Milan Wiercx van Rhijn](https://github.com/MilanWR)\
-[Brandon Davenport](https://github.com/itsbrandondev)
+[Brandon Davenport](https://github.com/itsbrandondev)\
+[Georgi Lazarov](https://github.com/georgi-l95)
 
 ***
 
