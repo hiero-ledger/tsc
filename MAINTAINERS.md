@@ -30,7 +30,7 @@ Maintainers are assigned the following scopes in this repository:
 | Nathan Klick           | nathanklick   | github-maintainers  |      |            |       | Hashgraph            |
 | Pavel Borisov          | PavelSBorisov | github-maintainers  |      |            |       | LimeChain            |
 | Roger Barker           | rbarker-dev   | github-maintainers  |      |            |       | Hashgraph            |
-| Andrew Brandt          | andrewb1269hg | github-maintainers  |      |            |       | Hashgraph            |
+| Andrew Brandt          | andrewb1269   | github-maintainers  |      |            |       | Hashgraph            |
 
 
 ## Emeritus Maintainers
