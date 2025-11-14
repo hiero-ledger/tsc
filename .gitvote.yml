@@ -181,7 +181,7 @@ profiles:
   #
    
   # Voter profile: All repo collaborators, 5 minutes long, 75% pass threshold
-  allshort:
+  all_short:
     duration: 5m
     pass_threshold: 75
     allowed_voters:
