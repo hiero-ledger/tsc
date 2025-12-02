@@ -1,3 +1,8 @@
+# Technical Steering Committee
+
+[![CII Best Practices](https://bestpractices.coreinfrastructure.org/projects/10697/badge)](https://bestpractices.coreinfrastructure.org/projects/10697)
+[![License](https://img.shields.io/badge/license-apache2-blue.svg)](LICENSE)
+
 ## Overview:
 This repo serves to provide a structure for activity, discussions and decisions of the Hiero Technical Steering Committee, operating under the authority of the [Hiero Project Charter](https://github.com/hiero-ledger/hiero/blob/main/technical-charter.md).
 
@@ -6,8 +11,11 @@ This repo serves to provide a structure for activity, discussions and decisions 
 [Richard Bair](https://github.com/rbair23)\
 [Leemon Baird (perm)](https://github.com/lbaird)\
 [Stoyan Panayotov](https://github.com/stoqnkpL)\
-[George Spasov](https://github.com/Perseverance)\
-[Alexander Popowycz](https://github.com/popowycz)
+[Alexander Popowycz](https://github.com/popowycz)\
+[Michael Kantor](https://github.com/kantorcodes)\
+[Milan Wiercx van Rhijn](https://github.com/MilanWR)\
+[Brandon Davenport](https://github.com/itsbrandondev)\
+[Georgi Lazarov](https://github.com/georgi-l95)
 
 ***
 
