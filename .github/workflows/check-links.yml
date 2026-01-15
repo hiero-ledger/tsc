@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   check-links:
-    runs-on: ubuntu-latest
+    runs-on: hl-tsc-lin-md
     steps:
     - name: Harden the runner (Audit all outbound calls)
       uses: step-security/harden-runner@0634a2670c59f64b4a01f0f96f84700a4088b9f0 # v2.12.0
