@@ -18,7 +18,7 @@ jobs:
         egress-policy: audit
 
     - uses: actions/checkout@61b9e3751b92087fd0b06925ba6dd6314e06f089 # master
-    - uses: gaurav-nelson/github-action-markdown-link-check@5c5dfc0ac2e225883c0e5f03a85311ec2830d368 # v1
+    - uses: step-security/github-action-markdown-link-check@0525eb58b3547a8abc4c5f68b05c07ff017b4079 # v1.0.17
       with:
         use-quiet-mode: 'yes'
         check-modified-files-only: 'yes'
