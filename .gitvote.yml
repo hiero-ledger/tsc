@@ -234,7 +234,7 @@ profiles:
         category: announcements
   # Voter profile: All TSC members, 3 days long, 50% pass threshold
   tscprojectproposal:
-    duration: 3d
+    duration: 14d
     pass_threshold: 50
     allowed_voters:
       teams:
