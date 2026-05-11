@@ -172,7 +172,7 @@ body:
         - Expected release cadence (if known)
       placeholder: |
         Example:
-        - Java SDK published to Maven Central under org.hiero.*
+        - Java SDK published to Maven Central under org.hiero.<project>.*
         - CLI binaries published via GitHub Releases
         - Docker images published to ghcr.io/hiero-ledger
         - Specifications published under hiero-ledger/specifications
