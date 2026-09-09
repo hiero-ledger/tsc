@@ -23,7 +23,7 @@ This repo serves to provide a structure for activity, discussions and decisions 
 
 The calendar for upcoming meetings can be found [here](https://zoom-lfx.platform.linuxfoundation.org/meetings/hiero?view=week)
 
-## Meeting Summaries & Secordings:
+## Meeting Summaries & Recordings:
 
 The summaries, minutes and recordings of the past Hiero TSC meetings can be found [here in the repository](https://github.com/hiero-ledger/tsc/tree/main/minutes). Additionally, you can login to your Linux Foundation [Individual Dashboard](https://openprofile.dev/) to view recordings and transcripts.
 
